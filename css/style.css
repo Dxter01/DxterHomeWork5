@@ -38,3 +38,7 @@ section.main div.container3 p {
 section#abc div p.two {
   background-color: chartreuse;
 }
+
+h2 {
+  border: 1px solid black;
+}
