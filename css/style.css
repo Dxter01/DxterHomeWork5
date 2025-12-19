@@ -1,0 +1,40 @@
+div > p#name {
+  color: green;
+}
+
+.section1 > p.class1 {
+  background-color: yellowgreen;
+}
+
+.container ul li {
+  color: brown;
+}
+
+.container1 span {
+  background-color: turquoise;
+}
+
+section > div > p[id="text"] {
+  background-color: blue;
+  color: white;
+}
+
+div#wrapper p.note {
+  background-color: blueviolet;
+}
+
+div.container2 p#one {
+  background-color: tomato;
+}
+
+section.main div.container3 p {
+  background-color: teal;
+}
+
+#IdOne {
+  background-color: cornflowerblue;
+}
+
+section#abc div p.two {
+  background-color: chartreuse;
+}
