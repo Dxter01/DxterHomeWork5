@@ -39,6 +39,7 @@ section#abc div p.two {
   background-color: chartreuse;
 }
 
-h2 {
+h2 a {
   border: 1px solid black;
+  color: orange;
 }
